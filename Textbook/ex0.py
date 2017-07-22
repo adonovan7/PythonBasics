@@ -1,5 +1,0 @@
-file1 = open('C:\Users\irc01\Documents\myTestFile.txt',"w") 
-file1.write("Hello World...")
-file1.write("Everyone's got to start somewhere, right?")
-print file1.read()
-file1.close()
