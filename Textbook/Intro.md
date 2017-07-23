@@ -6,7 +6,7 @@ Exercises divided into 5 parts:
 * [B](https://github.com/adonovan7/PythonBasics/tree/master/Textbook/Exercises/PartB): 11-20
 * [C](https://github.com/adonovan7/PythonBasics/tree/master/Textbook/Exercises/PartC): 21-30
 * [D](https://github.com/adonovan7/PythonBasics/tree/master/Textbook/Exercises/PartD): 31-40
-* E: 41-52
+* [E](https://github.com/adonovan7/PythonBasics/tree/master/Textbook/Exercises/PartE): 41-52
 
 
 ### Links:
